@@ -1,6 +1,8 @@
 # Compound word analyzer for Russian language
 Accepts string consisting of several words split by space.
 
+Uses [pymorphy2](https://github.com/kmike/pymorphy2).
+
 Tries to find out if it is possible to match that words together syntactically.
 
 # Sample
